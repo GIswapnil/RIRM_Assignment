@@ -1,0 +1,14 @@
+A. What is reverse-i-search in a Linux terminal?
+Ans:- reverse-i-search is a Linux command for getting Past Commands or command History.
+
+B. How do you list out the hidden directories using Linux command line tool?
+Ans:- We can use (ls -a) command to list out all directory including hidden files.
+
+  
+C. How comfortable are you with using Linux-based OS like Ubuntu, Centos, etc?
+Ans:- I have basic knoledge about Ubuntu.
+
+
+D. Have you ever used Servers to host any web applications in the past? If yes, what
+services did you set up (Like- Apache/Nginx/FTP/SMTP, etc)?
+Ans:-Yes, We use 'Digital Ocean'for hosting our project(Web application) and we use Droplets(service)for building Virtual Machine
